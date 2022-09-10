@@ -8,6 +8,6 @@ Co-founder and CTO of [Foony - foony.com](https://foony.com)
 Professional fitness and pool streamer. I ❤️ React + TypeScript.
 
 * [Twitch](https://twitch.tv/acorn1010)
-* [YouTube](https://www.youtube.com/c/UC3BHqkWP8ICUFdDA_-4UhOg)
+* [YouTube](https://www.youtube.com/channel/UC3BHqkWP8ICUFdDA_-4UhOg)
 * [Twitter](https://twitter.com/theacorn1010)
 * [TikTok](https://www.tiktok.com/@theacorn10)
