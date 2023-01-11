@@ -1,3 +1,4 @@
+<!-- @https://github.com/PekaZeka with love <3 -->
 [![Discord](https://img.shields.io/discord/730358864674947154.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/fwvzUh5TV3)
 <a href="https://twitch.tv/acorn1010"><img src="https://img.shields.io/twitch/status/acorn1010?label=Twitch" alt="Twitch"></a>
 <a href="https://www.youtube.com/@Acorn10"><img src="https://img.shields.io/youtube/channel/subscribers/UC3BHqkWP8ICUFdDA_-4UhOg?style=social" alt="Youtube" /></a>
