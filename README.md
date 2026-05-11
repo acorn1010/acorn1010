@@ -4,7 +4,7 @@
 <a href="https://www.youtube.com/@Acorn10"><img src="https://img.shields.io/youtube/channel/subscribers/UC3BHqkWP8ICUFdDA_-4UhOg?style=social" alt="Youtube" /></a>
 <a href="https://twitter.com/theacorn1010"><img src="https://img.shields.io/twitter/follow/theacorn1010?label=Twitter&style=social" alt="Twitter"></a>
 
-Co-founder and CTO of [Foony - foony.com](https://foony.com)
+Co-founder and Creator of [Foony - foony.com](https://foony.com)
 
 Professional fitness and pool streamer. I ❤️ React + TypeScript.
 
